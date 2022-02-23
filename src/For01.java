@@ -5,5 +5,4 @@ public class For01 {
             System.out.println("For01 = " + number);
 		}
 	}
-
 }
