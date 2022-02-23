@@ -14,6 +14,7 @@ public class Car {
 		this.fuelAmount -=(km/fuelCost);
 	}
 	
-
-
+	public double getFuelAmount() {
+		return this.fuelAmount;
+	}
 }
